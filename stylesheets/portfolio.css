@@ -1,0 +1,8 @@
+.portfolio-main p {
+  align-items: stretch;
+  display: inline-block;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  line-height: 1.5em;
+  padding: 3em 9em;
+}

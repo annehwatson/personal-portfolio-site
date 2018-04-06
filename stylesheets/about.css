@@ -1,0 +1,6 @@
+.about-me-blurb {
+  align-items: stretch;
+  grid-template-columns: 1fr;
+  line-height: 1.5em;
+  padding: 3em 9em;
+}
